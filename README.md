@@ -4,7 +4,7 @@ Hi 👋 My name is Kylo
 Web Developer
 -----------------------
 
-I learn web technologies and build stuff lmao
+I learn web technologies and build stuff
 
 * 🌍  I'm based in Philippines
 * ✉️  You can contact me at [kylalcntara@gmail.com](mailto:kylalcntara@gmail.com)
